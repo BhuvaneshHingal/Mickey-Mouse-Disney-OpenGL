@@ -7,6 +7,6 @@
 <details>
   <summary><strong>👇🏻 Click here for Output 👨🏻‍💻 : </strong></summary>
   <p align="center">
-    <img scr="https://user-images.githubusercontent.com/58567847/116538313-ff1d3680-a904-11eb-818e-aae1b903aff2.png" alt="Display-Output"/>
+    <img src="https://user-images.githubusercontent.com/58567847/116538313-ff1d3680-a904-11eb-818e-aae1b903aff2.png" alt="Mickey_Mouse"/>
   </p>
 </details>
